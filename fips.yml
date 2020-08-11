@@ -1,0 +1,7 @@
+# fips-flecs
+---
+exports:
+    header-dirs:
+        - flecs/include
+    modules:
+        flecs: .
